@@ -1,0 +1,7 @@
+product_id,product_code,product_name,product_category,product_tier,business_unit,target_gross_margin_pct,revenue_account_id,cogs_account_id,product_launched_date,product_discontinued_date,is_active,product_manager_name,description
+1,VAULT-CORE,Vault Core Platform,Platform,Standard,Core Platform,72.5,1100,2100,2020-01-01,,True,Alice Chen,Core data governance and compliance platform
+2,VAULT-ENT,Vault Enterprise,Platform,Enterprise,Core Platform,75.0,1100,2100,2020-06-01,,True,Alice Chen,Enterprise-grade compliance platform with advanced features
+3,IMPL-SERV,Implementation Services,Services,,Professional Services,45.0,1200,2300,2020-01-01,,True,Bob Martinez,Implementation and onboarding services
+4,MGMT-SERV,Managed Services,Services,,Professional Services,50.0,1200,2300,2021-01-01,,True,Bob Martinez,Ongoing managed compliance services
+5,COMPLIANCE,Advanced Compliance Module,Module,Premium,Core Platform,78.0,1100,2100,2025-04-01,,True,Amy Wong,Advanced compliance and regulatory reporting module
+6,LEGACY,Legacy/Discontinued,Services,,Other,40.0,1300,2400,2018-01-01,2023-12-31,False,,Legacy product - discontinued end of 2023

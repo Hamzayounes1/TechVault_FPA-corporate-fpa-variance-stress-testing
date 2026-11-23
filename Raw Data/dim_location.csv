@@ -1,0 +1,7 @@
+location_id,location_code,location_name,city,state_province,country,country_code,region,office_type,currency_code,time_zone,cost_multiplier,headcount_capacity,office_opened_date,office_closed_date,is_active
+1,SF,"San Francisco, CA",San Francisco,California,United States,US,North America,HQ,USD,America/Los_Angeles,1.25,150,2020-01-15,,True
+2,LON,"London, UK",London,England,United Kingdom,GB,Europe,Regional,GBP,Europe/London,1.15,60,2021-06-01,,True
+3,SG,Singapore,Singapore,,Singapore,SG,APAC,Regional,SGD,Asia/Singapore,1.05,40,2022-03-01,,True
+4,TOR,"Toronto, Canada",Toronto,Ontario,Canada,CA,North America,Regional,CAD,America/Toronto,1.1,35,2024-01-01,,True
+5,FRA,"Frankfurt, Germany",Frankfurt,Hesse,Germany,DE,Europe,Support,EUR,Europe/Berlin,1.12,20,2023-09-01,,True
+6,TOK,"Tokyo, Japan",Tokyo,,Japan,JP,APAC,Support,JPY,Asia/Tokyo,1.15,15,2024-06-01,,True

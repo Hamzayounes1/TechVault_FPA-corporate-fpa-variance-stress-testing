@@ -1,0 +1,21 @@
+cost_center_id,cost_center_code,cost_center_name,department_id,location_id,cost_center_type,manager_name,manager_email,budget_owner_name,cost_center_created_date,cost_center_closed_date,is_active
+1,SAL-01-01,Sales - Location 1,4,1,Revenue,Sales Manager,manager.sal-01-01@techvault.com,Sales Manager,2020-01-01,,True
+2,SAL-01-02,Sales - Location 1,4,1,Revenue,Sales Manager,manager.sal-01-02@techvault.com,Sales Manager,2020-01-01,,True
+3,SAL-02-01,Sales - Location 2,4,2,Revenue,Sales Manager,manager.sal-02-01@techvault.com,Sales Manager,2020-01-01,,True
+4,SAL-02-02,Sales - Location 2,4,2,Revenue,Sales Manager,manager.sal-02-02@techvault.com,Sales Manager,2020-01-01,,True
+5,SAL-03-01,Sales - Location 3,4,3,Revenue,Sales Manager,manager.sal-03-01@techvault.com,Sales Manager,2020-01-01,,True
+6,SAL-03-02,Sales - Location 3,4,3,Revenue,Sales Manager,manager.sal-03-02@techvault.com,Sales Manager,2020-01-01,,True
+7,RND-01-01,Engineering - Location 1,7,1,OPEX,Engineering Manager,manager.rnd-01-01@techvault.com,Engineering Manager,2020-01-01,,True
+8,RND-03-01,Engineering - Location 3,7,3,OPEX,Engineering Manager,manager.rnd-03-01@techvault.com,Engineering Manager,2020-01-01,,True
+9,CS-01-01,Support - Location 1,5,1,Support,Support Manager,manager.cs-01-01@techvault.com,Support Manager,2020-01-01,,True
+10,CS-02-01,Support - Location 2,5,2,Support,Support Manager,manager.cs-02-01@techvault.com,Support Manager,2020-01-01,,True
+11,CS-03-01,Support - Location 3,5,3,Support,Support Manager,manager.cs-03-01@techvault.com,Support Manager,2020-01-01,,True
+12,MKT-01-01,Marketing Operations,6,1,OPEX,Marketing Manager,manager.mkt-01-01@techvault.com,Marketing Manager,2020-01-01,,True
+13,FIN-01-01,Finance Department,2,1,OPEX,Finance Manager,manager.fin-01-01@techvault.com,Finance Manager,2020-01-01,,True
+14,HR-01-01,HR Department,3,1,OPEX,HR Manager,manager.hr-01-01@techvault.com,HR Manager,2020-01-01,,True
+15,OPS-01-01,Operations,8,1,OPEX,Operations Manager,manager.ops-01-01@techvault.com,Operations Manager,2020-01-01,,True
+16,LEGAL-01-01,Legal & Compliance,9,5,OPEX,Legal Manager,manager.legal-01-01@techvault.com,Legal Manager,2020-01-01,,True
+17,IT-01-01,IT Infrastructure,12,1,OPEX,IT Manager,manager.it-01-01@techvault.com,IT Manager,2020-01-01,,True
+18,EXEC-01-01,Executive Leadership,1,1,OPEX,Chief Executive Officer,manager.exec-01-01@techvault.com,Chief Executive Officer,2020-01-01,,True
+19,PROD-01-01,Product Management,10,1,OPEX,Product Manager,manager.prod-01-01@techvault.com,Product Manager,2020-01-01,,True
+20,COMPLY-01-01,Compliance,11,5,OPEX,Compliance Manager,manager.comply-01-01@techvault.com,Compliance Manager,2020-01-01,,True

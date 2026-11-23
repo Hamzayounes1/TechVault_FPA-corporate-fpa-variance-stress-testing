@@ -1,0 +1,6 @@
+segment_id,segment_code,segment_name,segment_description,min_acv_usd,max_acv_usd,target_gross_margin_pct,churn_rate_annual_pct,nrr_target_pct,quota_influence_pct,is_active
+1,ENT,Enterprise,"Large organizations with 10,000+ employees",250000,2500000,75.0,5.0,125.0,60.0,True
+2,MM,Mid-Market,"Mid-size organizations with 1,000-10,000 employees",75000,750000,72.0,7.0,120.0,25.0,True
+3,SMB,SMB,"Small businesses with <1,000 employees",15000,190000,70.0,12.0,110.0,10.0,True
+4,PARTNER,Partner,Reseller and partner organizations,50000,500000,60.0,15.0,105.0,5.0,True
+5,TRIAL,Trial/Free,Trial or free-tier customers,0,0,100.0,80.0,0.0,0.0,True

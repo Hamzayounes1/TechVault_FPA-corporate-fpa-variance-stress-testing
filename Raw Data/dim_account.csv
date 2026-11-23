@@ -1,0 +1,39 @@
+account_id,account_code,account_name,account_group,account_category,account_subcategory,p_and_l_classification,parent_account_id,is_revenue,is_cogs,is_opex,is_other_income,natural_balance,account_level,account_created_date,account_closed_date,is_active
+1100,1100,Enterprise Subscription Revenue,Revenue,Subscription,Enterprise,Revenue,,True,False,False,False,DEBIT,2,2018-06-01,,True
+1110,1110,Mid-Market Subscription Revenue,Revenue,Subscription,Mid-Market,Revenue,,True,False,False,False,DEBIT,2,2018-06-01,,True
+1120,1120,SMB Subscription Revenue,Revenue,Subscription,SMB,Revenue,,True,False,False,False,DEBIT,2,2018-06-01,,True
+1200,1200,Professional Services Revenue,Revenue,Services,Implementation,Revenue,,True,False,False,False,DEBIT,2,2018-06-01,,True
+1300,1300,Partner Revenue,Revenue,Other,Partner,Revenue,,True,False,False,False,DEBIT,2,2018-06-01,,True
+2100,2100,Cloud Hosting Costs,COGS,Infrastructure,Hosting,COGS,,False,True,False,False,CREDIT,2,2018-06-01,,True
+2200,2200,Payment Processing Fees,COGS,Payments,Processing,COGS,,False,True,False,False,CREDIT,2,2018-06-01,,True
+2300,2300,Service Delivery Costs,COGS,Services,Delivery,COGS,,False,True,False,False,CREDIT,2,2018-06-01,,True
+2400,2400,Third-Party Services,COGS,Vendors,Services,COGS,,False,True,False,False,CREDIT,2,2018-06-01,,True
+3110,3110,Sales Salaries,OPEX,Sales & Marketing,Salaries,OPEX,,False,False,True,False,CREDIT,2,2018-06-01,,True
+3120,3120,Sales Commissions,OPEX,Sales & Marketing,Compensation,OPEX,,False,False,True,False,CREDIT,2,2018-06-01,,True
+3130,3130,Sales Expenses,OPEX,Sales & Marketing,Expenses,OPEX,,False,False,True,False,CREDIT,2,2018-06-01,,True
+3140,3140,Marketing Salaries,OPEX,Sales & Marketing,Salaries,OPEX,,False,False,True,False,CREDIT,2,2018-06-01,,True
+3150,3150,Marketing Campaigns,OPEX,Sales & Marketing,Campaigns,OPEX,,False,False,True,False,CREDIT,2,2018-06-01,,True
+3160,3160,Marketing Tools & Systems,OPEX,Sales & Marketing,Tools,OPEX,,False,False,True,False,CREDIT,2,2018-06-01,,True
+3210,3210,Engineering Salaries,OPEX,R&D,Salaries,OPEX,,False,False,True,False,CREDIT,2,2018-06-01,,True
+3220,3220,Engineering Contractors,OPEX,R&D,Contractors,OPEX,,False,False,True,False,CREDIT,2,2018-06-01,,True
+3230,3230,R&D Tools & Licenses,OPEX,R&D,Tools,OPEX,,False,False,True,False,CREDIT,2,2018-06-01,,True
+3240,3240,Cloud Dev Infrastructure,OPEX,R&D,Infrastructure,OPEX,,False,False,True,False,CREDIT,2,2018-06-01,,True
+3310,3310,Support Salaries,OPEX,Customer Success,Salaries,OPEX,,False,False,True,False,CREDIT,2,2018-06-01,,True
+3320,3320,Support Contractors,OPEX,Customer Success,Contractors,OPEX,,False,False,True,False,CREDIT,2,2018-06-01,,True
+3330,3330,Support Tools,OPEX,Customer Success,Tools,OPEX,,False,False,True,False,CREDIT,2,2018-06-01,,True
+3410,3410,HR Salaries,OPEX,HR,Salaries,OPEX,,False,False,True,False,CREDIT,2,2018-06-01,,True
+3420,3420,Recruiting,OPEX,HR,Recruiting,OPEX,,False,False,True,False,CREDIT,2,2018-06-01,,True
+3430,3430,Benefits,OPEX,HR,Benefits,OPEX,,False,False,True,False,CREDIT,2,2018-06-01,,True
+3440,3440,Training & Development,OPEX,HR,Training,OPEX,,False,False,True,False,CREDIT,2,2018-06-01,,True
+3510,3510,Finance Salaries,OPEX,Finance,Salaries,OPEX,,False,False,True,False,CREDIT,2,2018-06-01,,True
+3520,3520,Audit & Accounting,OPEX,Finance,Professional,OPEX,,False,False,True,False,CREDIT,2,2018-06-01,,True
+3610,3610,Executive Salaries,OPEX,G&A,Executive,OPEX,,False,False,True,False,CREDIT,2,2018-06-01,,True
+3630,3630,Legal & Compliance,OPEX,G&A,Legal,OPEX,,False,False,True,False,CREDIT,2,2018-06-01,,True
+3640,3640,Insurance,OPEX,G&A,Insurance,OPEX,,False,False,True,False,CREDIT,2,2018-06-01,,True
+3650,3650,Facilities,OPEX,G&A,Facilities,OPEX,,False,False,True,False,CREDIT,2,2018-06-01,,True
+3710,3710,IT Salaries,OPEX,IT,Salaries,OPEX,,False,False,True,False,CREDIT,2,2018-06-01,,True
+3720,3720,IT Contractors,OPEX,IT,Contractors,OPEX,,False,False,True,False,CREDIT,2,2018-06-01,,True
+3730,3730,IT Systems & Licenses,OPEX,IT,Systems,OPEX,,False,False,True,False,CREDIT,2,2018-06-01,,True
+4100,4100,Interest Income,Other,Interest,Income,Other,,False,False,False,True,DEBIT,2,2018-06-01,,True
+4200,4200,Interest Expense,Other,Interest,Expense,Other,,False,False,False,True,CREDIT,2,2018-06-01,,True
+4300,4300,FX Gain/Loss,Other,FX,FX,Other,,False,False,False,True,DEBIT,2,2018-06-01,,True

@@ -1,0 +1,13 @@
+department_id,department_code,department_name,division,primary_location_id,manager_name,manager_title,department_created_date,is_active,department_closed_date,budget_owner
+1,EXEC,Executive,Leadership,1,John Smith,CEO,2018-06-01,True,,John Smith
+2,FIN,Finance,Finance,1,Sarah Johnson,CFO,2018-06-01,True,,Sarah Johnson
+3,HR,Human Resources,Operations,1,Michael Chen,VP HR,2018-06-01,True,,Michael Chen
+4,SALES,Sales,Revenue,1,Robert Williams,CRO,2018-06-01,True,,Robert Williams
+5,CS,Customer Success,Revenue,1,Angela Brown,VP CS,2019-01-01,True,,Angela Brown
+6,MKT,Marketing,Revenue,1,Jennifer Lee,VP Marketing,2018-06-01,True,,Jennifer Lee
+7,RND,Research & Development,Technology,1,David Kumar,VP Engineering,2018-06-01,True,,David Kumar
+8,OPS,Operations,Technology,1,Lisa Rodriguez,VP Operations,2018-06-01,True,,Lisa Rodriguez
+9,LEGAL,Legal & Compliance,Operations,1,Thomas Murphy,General Counsel,2019-06-01,True,,Thomas Murphy
+10,PROD,Product Management,Technology,1,Amanda Zhang,VP Product,2020-01-01,True,,Amanda Zhang
+11,COMPLY,Compliance,Operations,5,Klaus Schmidt,Compliance Manager,2023-01-01,True,,Klaus Schmidt
+12,IT,IT & Infrastructure,Technology,1,Eric Patterson,VP IT,2020-01-01,True,,Eric Patterson
