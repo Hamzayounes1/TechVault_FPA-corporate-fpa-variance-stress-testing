@@ -23,11 +23,11 @@ The value is **traceability**: moving from a top-line variance to a financial-st
 
 ### 1. Executive P&L overview
 
-![Executive P&L overview showing 2025 actual-versus-budget results](PowerBi/screenshots/Page_1.png)
+![Executive P&L overview showing 2025 actual-versus-budget results](PowerBi/Screenshots/Page_1.png)
 
 ### 2. Profitability sensitivity and stress testing
 
-![Scenario analysis showing a +10 percent COGS and OPEX shock](PowerBi/screenshots/Page_2.png)
+![Scenario analysis showing a +10 percent COGS and OPEX shock](PowerBi/Screenshots/Page_2.png)
 
 ## Key insights shown in the dashboards
 
@@ -148,9 +148,9 @@ TechVault_Corporate_FPA_Portfolio/
 │   └── README.md                     # PostgreSQL architecture and marts
 ├── powerbi/
 │   ├── README.md                     # Semantic model and dashboards
-│   └── screenshots/
-│       ├── 01_executive_pnl_overview.png
-│       └── 02_scenario_analysis.png
+│   └── Screenshots/
+│       ├── Page_1.png
+│       └── Page_2.png
 |
 ├── .gitignore
 └── .vscode/extensions.json

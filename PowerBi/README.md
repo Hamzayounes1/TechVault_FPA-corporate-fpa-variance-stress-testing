@@ -6,9 +6,9 @@
 
 Turn validated financial actuals and budget into a reporting interface that answers **what happened, where the variance came from, how profitability changed, and what earnings look like under a transparent cost assumption**. The two screenshots below represent the user's visible report output; the underlying `.pbix` was not uploaded for independent formula inspection.
 
-![Executive P&L dashboard](screenshots/Page_1.png)
+![Executive P&L dashboard](Screenshots/Page_1.png)
 
-![Scenario / stress dashboard](screenshots/Page_2.png)
+![Scenario / stress dashboard](Screenshots/Page_2.png)
 
 ## Model design
 
@@ -182,9 +182,9 @@ powerbi/
 │   ├── 02_budget_variance.dax
 │   ├── 03_time_intelligence.dax
 │   └── 04_stress_testing.dax
-└── screenshots/
-    ├── 01_executive_pnl_overview.png
-    └── 02_scenario_analysis.png
+└── Screenshots/
+    ├── Page_1.png
+    └── Page_2.png
 ```
 
 ## Real value and scope limits
